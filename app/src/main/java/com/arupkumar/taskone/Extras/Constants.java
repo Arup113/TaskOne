@@ -1,7 +1,8 @@
 package com.arupkumar.taskone.Extras;
 
+
 /**
- * Created by arup on 9/4/18.
+ * Created by Arup Kumar Pramanik on 04/10/2018.
  */
 
 public class Constants {
@@ -16,10 +17,10 @@ public class Constants {
 
 
     public interface ACTION {
-        public static String MAIN_ACTION = "com.arupkumar.taskone.try1.action.main";
-        public static String INIT_ACTION = "com.arupkumar.taskone.try1.action.init";
-        public static String STARTFOREGROUND_ACTION = "com.arupkumar.taskone.try1.action.startforeground";
-        public static String STOPFOREGROUND_ACTION = "com.arupkumar.taskone.try1.action.stopforeground";
+        public static String MAIN_ACTION = "com.arupkumar.taskone.action.main";
+        public static String INIT_ACTION = "com.arupkumar.taskone.action.init";
+        public static String STARTFOREGROUND_ACTION = "com.arupkumar.taskone.action.startforeground";
+        public static String STOPFOREGROUND_ACTION = "com.arupkumar.taskone.action.stopforeground";
     }
 
     public interface NOTIFICATIONID {

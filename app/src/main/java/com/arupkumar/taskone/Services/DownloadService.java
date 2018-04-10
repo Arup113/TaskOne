@@ -30,6 +30,10 @@ import static com.arupkumar.taskone.Extras.Constants.NOTIFICATIONID.FOREGROUND_S
 import static com.arupkumar.taskone.Extras.Constants.PERCENTAGE;
 import static com.arupkumar.taskone.Extras.Constants.RESULTCODE;
 
+/**
+ * Created by Arup Kumar Pramanik on 04/10/2018.
+ */
+
 public class DownloadService extends Service {
     private static final String LOG_TAG = DownloadService.class.getName().toString();
     private int result = Activity.RESULT_CANCELED;
