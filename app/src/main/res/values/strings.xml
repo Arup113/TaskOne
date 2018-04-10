@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">TaskOne</string>
     <string name="status">Status : </string>
-    <string name="download_url">https://dl.dropboxusercontent.com/s/2au5rvor17cyq2x/test.mp3</string>
-    <!--<string name="download_url">http://dropbox.sandbox2000.com/intrvw/SampleVideo_1280x720_30mb.mp4</string>-->
+    <!--<string name="download_url">https://dl.dropboxusercontent.com/s/2au5rvor17cyq2x/test.mp3</string>-->
+    <string name="download_url">http://dropbox.sandbox2000.com/intrvw/SampleVideo_1280x720_30mb.mp4</string>
     <string name="start_service">Start Service</string>
     <string name="stop_service">Stop Service</string>
     <string name="status_downloading">Downloading...</string>
